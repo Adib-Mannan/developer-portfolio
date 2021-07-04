@@ -5,9 +5,11 @@ body{
 h1{
     font-size: 50px;
 }
-.itachi{color: red;}
+.itachi{color:yellow;}
 section{
     display: flex;
+    margin-bottom: 150px;
+    text-align: justify;
 }
 .ultra{
     width: 50%;
@@ -23,16 +25,14 @@ section{
     font-weight: 700px;
     padding: 10px 40px;
     border-radius: 5px;
+    margin-bottom: 50px;
 }
-.link-button2{
-    text-decoration:none ;
-    background-image: linear-gradient(yellow, orange
-    );
-    color: white;
-    font-weight: 700px;
-    padding: 10px 40px;
-    border-radius: 5px;
-}
+
 .top-banner{background-image: url(images/top-banner.png);
             background-repeat: no-repeat; 
+}
+.naruto{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
