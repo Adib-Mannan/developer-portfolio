@@ -1,0 +1,38 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0%;
+}
+h1{
+    font-size: 50px;
+}
+.itachi{color: red;}
+section{
+    display: flex;
+}
+.ultra{
+    width: 50%;
+    padding-left: 2%;
+} 
+.ultra img{width: 90%;
+   }
+.link-button{
+    text-decoration:none ;
+    background-image: linear-gradient(yellow, orange
+    );
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.link-button2{
+    text-decoration:none ;
+    background-image: linear-gradient(yellow, orange
+    );
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-banner{background-image: url(images/top-banner.png);
+            background-repeat: no-repeat; 
+}
