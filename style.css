@@ -69,3 +69,21 @@ footer p{
     text-align: center;
 }
 .abid{color: deepskyblue;}
+.kiba{box-sizing: border-box;}
+.hina{ 
+    width: 40%;
+    float: left;
+    padding:60px;
+}
+.naru{content: "";
+display: table;
+clear: both;}
+.obito{
+    text-align: center
+    ;
+    color: deepskyblue;
+}
+.pain{
+    text-align: center;
+    color:deepskyblue ; 
+}
